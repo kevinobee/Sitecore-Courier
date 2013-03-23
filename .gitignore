@@ -108,6 +108,4 @@ Backup*/
 UpgradeLog*.XML
 
 # Sitecore files
-# Sitecore.Courier/lib/
-Sitecore.Courier/lib/Sitecore.*.dll
-Sitecore.Courier/lib/Sitecore.*.pdb
+Sitecore.Courier/lib/
